@@ -24,10 +24,10 @@ def first_step():
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
     print("        🔒 Script Locked 🔒")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n")
-    print("\033[1;32m JOIN OUR WHATSAPP CHANNEL ✅ \033[0m\n")
-    print("\033[1;32m KEY ON CHANNEL ✅ \033[0m\n")
+    print("\033[1;32m JOIN OUR WHATSAPP GROUP ✅ \033[0m\n")
+    print("\033[1;32m KEY ON GROUP ✅ \033[0m\n")
 # Yeh direct Whatsapp open karega
-    os.system("xdg-open 'https://www.facebook.com/share/1AcV4sXvbC/'")
+    os.system("xdg-open 'https://chat.whatsapp.com/B7tL1f4so84KiLbMElXYs7?mode=ems_copy_t'")
 
     # Yeh direct Facebook open karega
     os.system("xdg-open 'https://www.facebook.com/share/1HvvJKqsSb/'")
