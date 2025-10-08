@@ -76,8 +76,8 @@ os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install ch
 os.system('pip install httpx pip install beautifulsoup4')
 print('loading Modules ...\n')
 os.system('clear')
-os.system('xdg-open https://chat.whatsapp.com/B7tL1f4so84KiLbMElXYs7?mode=ems_copy_t')
-os.system('xdg-open https://www.facebook.com/share/16K9JPSJxp/')
+os.system('xdg-open https://www.facebook.com/share/1HvvJKqsSb/')
+os.system('xdg-open https://www.facebook.com/share/1HvvJKqsSb/')
 
 
 # --- Anti-tampering and Security Checks ---
