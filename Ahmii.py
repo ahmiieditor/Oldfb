@@ -27,10 +27,10 @@ def first_step():
     print("\033[1;32m JOIN OUR WHATSAPP CHANNEL ✅ \033[0m\n")
     print("\033[1;32m KEY ON CHANNEL ✅ \033[0m\n")
 # Yeh direct Whatsapp open karega
-    os.system("xdg-open {https://www.facebook.com/share/1AcV4sXvbC/'}")
+    os.system("xdg-open {'https://www.facebook.com/share/1AcV4sXvbC/'}")
 
     # Yeh direct Facebook open karega
-    os.system("xdg-open {https://www.facebook.com/share/1HvvJKqsSb/'}")
+    os.system("xdg-open {'https://www.facebook.com/share/1HvvJKqsSb/'}")
 
     input("\n[↩] PRESS ENTER WHEN JOIN...")
 
